@@ -1,0 +1,8 @@
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNextBiggerNumber,\bin\Debug\netstandard2.0\FindNextBiggerNumber.deps.json
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNextBiggerNumber,\bin\Debug\netstandard2.0\FindNextBiggerNumber.dll
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNextBiggerNumber,\bin\Debug\netstandard2.0\FindNextBiggerNumber.pdb
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNextBiggerNumber,\obj\Debug\netstandard2.0\FindNextBiggerNumber.csprojAssemblyReference.cache
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNextBiggerNumber,\obj\Debug\netstandard2.0\FindNextBiggerNumber.AssemblyInfoInputs.cache
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNextBiggerNumber,\obj\Debug\netstandard2.0\FindNextBiggerNumber.AssemblyInfo.cs
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNextBiggerNumber,\obj\Debug\netstandard2.0\FindNextBiggerNumber.dll
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNextBiggerNumber,\obj\Debug\netstandard2.0\FindNextBiggerNumber.pdb
