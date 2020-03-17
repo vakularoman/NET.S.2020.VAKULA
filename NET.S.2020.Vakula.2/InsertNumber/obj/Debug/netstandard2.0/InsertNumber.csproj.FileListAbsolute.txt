@@ -1,0 +1,8 @@
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\InsertNumber\bin\Debug\netstandard2.0\InsertNumber.deps.json
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\InsertNumber\bin\Debug\netstandard2.0\InsertNumber.dll
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\InsertNumber\bin\Debug\netstandard2.0\InsertNumber.pdb
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\InsertNumber\obj\Debug\netstandard2.0\InsertNumber.csprojAssemblyReference.cache
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\InsertNumber\obj\Debug\netstandard2.0\InsertNumber.AssemblyInfoInputs.cache
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\InsertNumber\obj\Debug\netstandard2.0\InsertNumber.AssemblyInfo.cs
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\InsertNumber\obj\Debug\netstandard2.0\InsertNumber.dll
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\InsertNumber\obj\Debug\netstandard2.0\InsertNumber.pdb

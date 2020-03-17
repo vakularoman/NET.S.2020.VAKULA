@@ -1,0 +1,8 @@
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNthRoot\bin\Debug\netstandard2.0\FindNthRoot.deps.json
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNthRoot\bin\Debug\netstandard2.0\FindNthRoot.dll
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNthRoot\bin\Debug\netstandard2.0\FindNthRoot.pdb
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNthRoot\obj\Debug\netstandard2.0\FindNthRoot.csprojAssemblyReference.cache
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNthRoot\obj\Debug\netstandard2.0\FindNthRoot.AssemblyInfoInputs.cache
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNthRoot\obj\Debug\netstandard2.0\FindNthRoot.AssemblyInfo.cs
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNthRoot\obj\Debug\netstandard2.0\FindNthRoot.dll
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FindNthRoot\obj\Debug\netstandard2.0\FindNthRoot.pdb
