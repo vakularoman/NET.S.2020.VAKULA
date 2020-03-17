@@ -1,0 +1,8 @@
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FilterDigit\bin\Debug\netstandard2.0\FilterDigit.deps.json
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FilterDigit\bin\Debug\netstandard2.0\FilterDigit.dll
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FilterDigit\bin\Debug\netstandard2.0\FilterDigit.pdb
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FilterDigit\obj\Debug\netstandard2.0\FilterDigit.csprojAssemblyReference.cache
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FilterDigit\obj\Debug\netstandard2.0\FilterDigit.AssemblyInfoInputs.cache
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FilterDigit\obj\Debug\netstandard2.0\FilterDigit.AssemblyInfo.cs
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FilterDigit\obj\Debug\netstandard2.0\FilterDigit.dll
+D:\Users\User\source\repos\NET.S.2020.Vakula.2\FilterDigit\obj\Debug\netstandard2.0\FilterDigit.pdb
